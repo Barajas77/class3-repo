@@ -9,6 +9,8 @@ welcome to my repository for the NU FinTech Bootcamp!
 
 *This text will be in italics*
 
+---
+
 **This text will be in bold**
 
 I am a recent college grad with a buisiness degree and a major in Finance. I currently work as loss prevention for Old Navy.
