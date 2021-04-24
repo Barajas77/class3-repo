@@ -4,7 +4,7 @@
 
 ### FinTech Repository with H3
 
-welcome to my repository for the NU FinTech Bootcamp!
+welcome to my repository for the `NU FinTech Bootcamp`!
 
 
 *This text will be in italics*
@@ -12,6 +12,10 @@ welcome to my repository for the NU FinTech Bootcamp!
 ---
 
 **This text will be in bold**
+
+```python
+print("welcome to FinTech!")
+```
 
 I am a recent college grad with a buisiness degree and a major in Finance. I currently work as loss prevention for Old Navy.
 MY carrer goals are to enter the Fintech job market and work in something related to blockchain or cryptocurrenty.
